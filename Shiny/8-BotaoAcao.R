@@ -1,4 +1,4 @@
-library(shiny)
+#library(shiny)
 
 ui <- fluidPage(
   titlePanel("Botao de Acao"),
