@@ -1,6 +1,6 @@
 library(shiny)
 #install.packages("shinyWidgets")
-library("shinyWidgets")
+library(shinyWidgets)
 
 ui <- fluidPage(
   column(
